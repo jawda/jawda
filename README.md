@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm jawda</h1>
-<h3 align="center">A passionate fullstack developer who enjoys learning and is currently working on several small video games.</h3>
+<h3 align="center">I'm a passionate web developer who loves building interactive experiences and tools using Dart, StageXL, and C#. I enjoy working on projects that combine performance, creativity, and clean architecture—whether it's a dynamic web app, a game, or a custom tool.
+
+Here on GitHub, you'll find a mix of experiments, open-source contributions, and personal projects that reflect my interest in frontend development, graphics programming, and modern software design.
+
+Feel free to explore, fork, or reach out!</h3>
 
 <p align="left"> <a href="https://twitter.com/jawda" target="blank"><img src="https://img.shields.io/twitter/follow/jawda?logo=twitter&style=for-the-badge" alt="jawda" /></a> </p>
 
