@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22747
-Fork on GitHub
-7555
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm jawda</h1>
 <h3 align="center">I'm a passionate web developer who loves building interactive experiences and tools using Dart, StageXL, and C#. I enjoy working on projects that combine performance, creativity, and clean architecture—whether it's a dynamic web app, a game, or a custom tool.
 Here on GitHub, you'll find a mix of experiments, open-source contributions, and personal projects that reflect my interest in frontend development, graphics programming, and modern software design.
